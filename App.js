@@ -90,6 +90,20 @@ const reducer = (state, action) => {
   }
 };
 function App() {
+  const [state, dispatch] = useReducer(reducer, initialState);
+  useEffect(() => {
+    if (state.first_value === 0) {
+      dispatch({ type: ACTIONS.SET_FIRST_BACK });
+    }
+  }, [state.first_value]);
+  const firstUpdate = useRef(true);
+  useEffect(() => {
+    if (firstUpdate.current) {
+      firstUpdate.current = false;
+      return;
+    }
+    dispatch({ type: ACTIONS.GET_CONTINUE });
+  }, [state.number]);
   return <div></div>;
 }
 
