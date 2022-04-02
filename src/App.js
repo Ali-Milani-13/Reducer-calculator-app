@@ -104,7 +104,18 @@ function App() {
     }
     dispatch({ type: ACTIONS.GET_CONTINUE });
   }, [state.number]);
-  return <div></div>;
+  return (
+    <div className="App">
+      <ButtonHolder
+        dispatch={dispatch}
+        first_value={state.first_value}
+        second_value={state.second_value}
+        is_operator_got={state.is_operator_got}
+        number={state.number}
+        operator_type={state.operator_type}
+      />
+    </div>
+  );
 }
 
 export default App;
