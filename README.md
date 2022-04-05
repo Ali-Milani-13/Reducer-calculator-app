@@ -9,6 +9,10 @@
 
 ### ✨ [Demo](https://ali-milani-13.github.io/Reducer-calculator-app/)
 
+### 📷 Screenshot
+![image](https://user-images.githubusercontent.com/101967444/161690441-d0d26642-75ed-45b8-9d89-1fbdc15fb9c5.png)
+
+
 ## Install
 
 ```sh
