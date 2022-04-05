@@ -26,7 +26,7 @@ npm start
 👤 **Ali Milani**
 
 - Github: [@Ali-Milani-13](https://github.com/Ali-Milani-13)
-- LinkedIn: [@ali-milani-96520a235](https://linkedin.com/in/ali-milani-96520a235)
+- LinkedIn: [@ali-milani-96520a235](https://linkedin.com/in/ali-milani13)
 
 ## Show your support
 
