@@ -7,6 +7,8 @@
 
 > This is a calculator made with React JS using Reducer hook
 
+### ✨ [Demo](https://ali-milani-13.github.io/Reducer-calculator-app/)
+
 ## Install
 
 ```sh
@@ -23,7 +25,8 @@ npm start
 
 👤 **Ali Milani**
 
-* Github: [@Ali-Milani-13](https://github.com/Ali-Milani-13)
+- Github: [@Ali-Milani-13](https://github.com/Ali-Milani-13)
+- LinkedIn: [@ali-milani-96520a235](https://linkedin.com/in/ali-milani-96520a235)
 
 ## Show your support
 
