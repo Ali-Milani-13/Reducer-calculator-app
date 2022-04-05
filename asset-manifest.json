@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ali-Milani-13/Reducer-calculator-app/static/css/main.5d08cac2.chunk.css",
-    "main.js": "/Ali-Milani-13/Reducer-calculator-app/static/js/main.224e0243.chunk.js",
-    "main.js.map": "/Ali-Milani-13/Reducer-calculator-app/static/js/main.224e0243.chunk.js.map",
-    "runtime-main.js": "/Ali-Milani-13/Reducer-calculator-app/static/js/runtime-main.ab49a6b9.js",
-    "runtime-main.js.map": "/Ali-Milani-13/Reducer-calculator-app/static/js/runtime-main.ab49a6b9.js.map",
-    "static/js/2.18e95ca5.chunk.js": "/Ali-Milani-13/Reducer-calculator-app/static/js/2.18e95ca5.chunk.js",
-    "static/js/2.18e95ca5.chunk.js.map": "/Ali-Milani-13/Reducer-calculator-app/static/js/2.18e95ca5.chunk.js.map",
-    "index.html": "/Ali-Milani-13/Reducer-calculator-app/index.html",
-    "precache-manifest.9353e0423331d0c29e70d7051e5aabc6.js": "/Ali-Milani-13/Reducer-calculator-app/precache-manifest.9353e0423331d0c29e70d7051e5aabc6.js",
-    "service-worker.js": "/Ali-Milani-13/Reducer-calculator-app/service-worker.js",
-    "static/css/main.5d08cac2.chunk.css.map": "/Ali-Milani-13/Reducer-calculator-app/static/css/main.5d08cac2.chunk.css.map",
-    "static/js/2.18e95ca5.chunk.js.LICENSE.txt": "/Ali-Milani-13/Reducer-calculator-app/static/js/2.18e95ca5.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.5d08cac2.chunk.css",
+    "main.js": "/static/js/main.694babbf.chunk.js",
+    "main.js.map": "/static/js/main.694babbf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6fd1fea2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6fd1fea2.js.map",
+    "static/js/2.18e95ca5.chunk.js": "/static/js/2.18e95ca5.chunk.js",
+    "static/js/2.18e95ca5.chunk.js.map": "/static/js/2.18e95ca5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ea799aa4bac651570a5b111649cb357d.js": "/precache-manifest.ea799aa4bac651570a5b111649cb357d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5d08cac2.chunk.css.map": "/static/css/main.5d08cac2.chunk.css.map",
+    "static/js/2.18e95ca5.chunk.js.LICENSE.txt": "/static/js/2.18e95ca5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab49a6b9.js",
+    "static/js/runtime-main.6fd1fea2.js",
     "static/js/2.18e95ca5.chunk.js",
     "static/css/main.5d08cac2.chunk.css",
-    "static/js/main.224e0243.chunk.js"
+    "static/js/main.694babbf.chunk.js"
   ]
 }
