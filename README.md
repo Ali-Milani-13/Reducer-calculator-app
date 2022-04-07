@@ -16,7 +16,7 @@
 ## Install
 
 ```sh
-npm init
+npm install
 ```
 
 ## Usage
